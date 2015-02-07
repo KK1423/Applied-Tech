@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1421456822 source:c:\users\karth_000\skydrive\google drive\gyazo download\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+

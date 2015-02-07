@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1415973146 source:c:\users\karth_000\skydrive\google drive\dsaf\main.cpp
+	<SFML/Graphics.hpp>
+	<cstdlib>
+	<cstdio>
+	<cmath>
+	<fstream>
+	<vector>
+	<iostream>
+	<cassert>
+

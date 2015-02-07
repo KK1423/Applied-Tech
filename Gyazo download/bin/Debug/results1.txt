@@ -1,0 +1,316 @@
+--2015-01-17 13:18:53--  http://i.gyazo.com/ee8f742931139f96c09396cef32ecd68.png
+Resolving i.gyazo.com... 198.232.124.192
+Connecting to i.gyazo.com|198.232.124.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 47875 (47K) [image/png]
+Saving to: `ee8f742931139f96c09396cef32ecd68.png'
+
+     0K .......... .......... .......... .......... ......    100%  162K=0.3s
+
+2015-01-17 13:18:54 (162 KB/s) - `ee8f742931139f96c09396cef32ecd68.png' saved [47875/47875]
+
+--2015-01-17 13:18:54--  http://i.gyazo.com/bd301f847d2435e410e8a9e16ca4de43.png
+Resolving i.gyazo.com... 198.232.124.192
+Connecting to i.gyazo.com|198.232.124.192|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2015-01-17 13:18:54 ERROR 404: Not Found.
+
+--2015-01-17 13:18:54--  http://i.gyazo.com/c7c8009f217da5890dcf9fbc207ac8a7.png
+Resolving i.gyazo.com... 198.232.124.192
+Connecting to i.gyazo.com|198.232.124.192|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2015-01-17 13:18:55 ERROR 404: Not Found.
+
+--2015-01-17 13:18:55--  http://i.gyazo.com/034b51bd04145f319d8a7d66765af864.png
+Resolving i.gyazo.com... 198.232.124.192
+Connecting to i.gyazo.com|198.232.124.192|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2015-01-17 13:18:55 ERROR 404: Not Found.
+
+--2015-01-17 13:18:55--  http://i.gyazo.com/8af96e442990ffbad325c9caa83d5684.png
+Resolving i.gyazo.com... 198.232.124.192
+Connecting to i.gyazo.com|198.232.124.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 31756 (31K) [image/png]
+Saving to: `8af96e442990ffbad325c9caa83d5684.png'
+
+     0K .......... .......... .......... .                    100%  938K=0.03s
+
+2015-01-17 13:18:55 (938 KB/s) - `8af96e442990ffbad325c9caa83d5684.png' saved [31756/31756]
+
+--2015-01-17 13:18:56--  http://i.gyazo.com/a24b7fbda501058df5a7a2390cb10433.png
+Resolving i.gyazo.com... 198.232.124.192
+Connecting to i.gyazo.com|198.232.124.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 12396 (12K) [image/png]
+Saving to: `a24b7fbda501058df5a7a2390cb10433.png'
+
+     0K .......... ..                                         100%  916K=0.01s
+
+2015-01-17 13:18:56 (916 KB/s) - `a24b7fbda501058df5a7a2390cb10433.png' saved [12396/12396]
+
+--2015-01-17 13:18:56--  http://i.gyazo.com/e1866c3d1fc81f60df659bc5ca8b317c.png
+Resolving i.gyazo.com... 198.232.124.192
+Connecting to i.gyazo.com|198.232.124.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 26163 (26K) [image/png]
+Saving to: `e1866c3d1fc81f60df659bc5ca8b317c.png'
+
+     0K .......... .......... .....                           100% 1004K=0.03s
+
+2015-01-17 13:18:56 (1004 KB/s) - `e1866c3d1fc81f60df659bc5ca8b317c.png' saved [26163/26163]
+
+--2015-01-17 13:18:56--  http://i.gyazo.com/4cd2bf9190138403e9abd2b68d42378c.png
+Resolving i.gyazo.com... 198.232.124.192
+Connecting to i.gyazo.com|198.232.124.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 8231 (8.0K) [image/png]
+Saving to: `4cd2bf9190138403e9abd2b68d42378c.png'
+
+     0K ........                                              100% 20.7M=0s
+
+2015-01-17 13:18:57 (20.7 MB/s) - `4cd2bf9190138403e9abd2b68d42378c.png' saved [8231/8231]
+
+--2015-01-17 13:18:57--  http://i.gyazo.com/56bfc0cd79f77cd568def31344f0ce86.png
+Resolving i.gyazo.com... 198.232.124.192
+Connecting to i.gyazo.com|198.232.124.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 12887 (13K) [image/png]
+Saving to: `56bfc0cd79f77cd568def31344f0ce86.png'
+
+     0K .......... ..                                         100% 6.42M=0.002s
+
+2015-01-17 13:18:57 (6.42 MB/s) - `56bfc0cd79f77cd568def31344f0ce86.png' saved [12887/12887]
+
+--2015-01-17 13:18:57--  http://i.gyazo.com/faf7672ab0eff8ecc87567fc8d9c8a52.png
+Resolving i.gyazo.com... 198.232.124.192
+Connecting to i.gyazo.com|198.232.124.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 12107 (12K) [image/png]
+Saving to: `faf7672ab0eff8ecc87567fc8d9c8a52.png'
+
+     0K .......... .                                          100% 12.0M=0.001s
+
+2015-01-17 13:18:58 (12.0 MB/s) - `faf7672ab0eff8ecc87567fc8d9c8a52.png' saved [12107/12107]
+
+--2015-01-17 13:18:58--  http://i.gyazo.com/85859de169bd489a5202ff1396a67c85.png
+Resolving i.gyazo.com... 198.232.124.192
+Connecting to i.gyazo.com|198.232.124.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4953 (4.8K) [image/png]
+Saving to: `85859de169bd489a5202ff1396a67c85.png'
+
+     0K ....                                                  100% 1.33M=0.004s
+
+2015-01-17 13:18:58 (1.33 MB/s) - `85859de169bd489a5202ff1396a67c85.png' saved [4953/4953]
+
+--2015-01-17 13:18:58--  http://i.gyazo.com/fc6f73870755968c278bb1bd0727aeb1.png
+Resolving i.gyazo.com... 198.232.124.192
+Connecting to i.gyazo.com|198.232.124.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 19042 (19K) [image/png]
+Saving to: `fc6f73870755968c278bb1bd0727aeb1.png'
+
+     0K .......... ........                                   100%  651K=0.03s
+
+2015-01-17 13:18:58 (651 KB/s) - `fc6f73870755968c278bb1bd0727aeb1.png' saved [19042/19042]
+
+--2015-01-17 13:18:59--  http://i.gyazo.com/43019bf4341a4855b8b346e0c724a625.png
+Resolving i.gyazo.com... 198.232.124.192
+Connecting to i.gyazo.com|198.232.124.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 7402 (7.2K) [image/png]
+Saving to: `43019bf4341a4855b8b346e0c724a625.png'
+
+     0K .......                                               100% 2.20M=0.003s
+
+2015-01-17 13:18:59 (2.20 MB/s) - `43019bf4341a4855b8b346e0c724a625.png' saved [7402/7402]
+
+--2015-01-17 13:18:59--  http://i.gyazo.com/f80e3da8246940da4e4fe36ca842faf5.png
+Resolving i.gyazo.com... 198.232.124.192
+Connecting to i.gyazo.com|198.232.124.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 10750 (10K) [image/png]
+Saving to: `f80e3da8246940da4e4fe36ca842faf5.png'
+
+     0K ..........                                            100% 2.67M=0.004s
+
+2015-01-17 13:18:59 (2.67 MB/s) - `f80e3da8246940da4e4fe36ca842faf5.png' saved [10750/10750]
+
+--2015-01-17 13:18:59--  http://i.gyazo.com/a94adae889daa8003b549edcdac75ce1.png
+Resolving i.gyazo.com... 198.232.124.192
+Connecting to i.gyazo.com|198.232.124.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9431 (9.2K) [image/png]
+Saving to: `a94adae889daa8003b549edcdac75ce1.png'
+
+     0K .........                                             100% 10.2M=0.001s
+
+2015-01-17 13:19:00 (10.2 MB/s) - `a94adae889daa8003b549edcdac75ce1.png' saved [9431/9431]
+
+--2015-01-17 13:19:00--  http://i.gyazo.com/a94adae889daa8003b549edcdac75ce1.png
+Resolving i.gyazo.com... 198.232.124.192
+Connecting to i.gyazo.com|198.232.124.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9431 (9.2K) [image/png]
+Saving to: `a94adae889daa8003b549edcdac75ce1.png.1'
+
+     0K .........                                             100%  347M=0s
+
+2015-01-17 13:19:00 (347 MB/s) - `a94adae889daa8003b549edcdac75ce1.png.1' saved [9431/9431]
+
+--2015-01-17 13:19:00--  http://i.gyazo.com/2af57f786149687d889241d2a0504c73.png
+Resolving i.gyazo.com... 198.232.124.192
+Connecting to i.gyazo.com|198.232.124.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 8674 (8.5K) [image/png]
+Saving to: `2af57f786149687d889241d2a0504c73.png'
+
+     0K ........                                              100% 10.6M=0.001s
+
+2015-01-17 13:19:00 (10.6 MB/s) - `2af57f786149687d889241d2a0504c73.png' saved [8674/8674]
+
+--2015-01-17 13:19:00--  http://i.gyazo.com/145c40c2cd84b8fc7cdec616b14b2b8f.png
+Resolving i.gyazo.com... 198.232.124.192
+Connecting to i.gyazo.com|198.232.124.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 5445 (5.3K) [image/png]
+Saving to: `145c40c2cd84b8fc7cdec616b14b2b8f.png'
+
+     0K .....                                                 100% 1.07M=0.005s
+
+2015-01-17 13:19:01 (1.07 MB/s) - `145c40c2cd84b8fc7cdec616b14b2b8f.png' saved [5445/5445]
+
+--2015-01-17 13:19:01--  http://i.gyazo.com/6fe6e48dcede8916f96bf9d42fa2e5c4.png
+Resolving i.gyazo.com... 198.232.124.192
+Connecting to i.gyazo.com|198.232.124.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 5965 (5.8K) [image/png]
+Saving to: `6fe6e48dcede8916f96bf9d42fa2e5c4.png'
+
+     0K .....                                                 100%  332K=0.02s
+
+2015-01-17 13:19:01 (332 KB/s) - `6fe6e48dcede8916f96bf9d42fa2e5c4.png' saved [5965/5965]
+
+--2015-01-17 13:19:01--  http://i.gyazo.com/6fe6e48dcede8916f96bf9d42fa2e5c4.png
+Resolving i.gyazo.com... 198.232.124.192
+Connecting to i.gyazo.com|198.232.124.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 5965 (5.8K) [image/png]
+Saving to: `6fe6e48dcede8916f96bf9d42fa2e5c4.png.1'
+
+     0K .....                                                 100% 3.78M=0.002s
+
+2015-01-17 13:19:01 (3.78 MB/s) - `6fe6e48dcede8916f96bf9d42fa2e5c4.png.1' saved [5965/5965]
+
+--2015-01-17 13:19:01--  http://i.gyazo.com/00bf1a483c1318b37d45b8e68a5ff588.png
+Resolving i.gyazo.com... 198.232.124.192
+Connecting to i.gyazo.com|198.232.124.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 399 [image/png]
+Saving to: `00bf1a483c1318b37d45b8e68a5ff588.png'
+
+     0K                                                       100%  131K=0.003s
+
+2015-01-17 13:19:01 (131 KB/s) - `00bf1a483c1318b37d45b8e68a5ff588.png' saved [399/399]
+
+--2015-01-17 13:19:01--  http://i.gyazo.com/00bf1a483c1318b37d45b8e68a5ff588.png
+Resolving i.gyazo.com... 198.232.124.192
+Connecting to i.gyazo.com|198.232.124.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 399 [image/png]
+Saving to: `00bf1a483c1318b37d45b8e68a5ff588.png.1'
+
+     0K                                                       100% 17.4M=0s
+
+2015-01-17 13:19:01 (17.4 MB/s) - `00bf1a483c1318b37d45b8e68a5ff588.png.1' saved [399/399]
+
+--2015-01-17 13:19:02--  http://i.gyazo.com/00bf1a483c1318b37d45b8e68a5ff588.png
+Resolving i.gyazo.com... 198.232.124.192
+Connecting to i.gyazo.com|198.232.124.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 399 [image/png]
+Saving to: `00bf1a483c1318b37d45b8e68a5ff588.png.2'
+
+     0K                                                       100% 23.0M=0s
+
+2015-01-17 13:19:02 (23.0 MB/s) - `00bf1a483c1318b37d45b8e68a5ff588.png.2' saved [399/399]
+
+--2015-01-17 13:19:02--  http://i.gyazo.com/2b7e86ce9c407235bbabb0a9e6a816bd.png
+Resolving i.gyazo.com... 198.232.124.192
+Connecting to i.gyazo.com|198.232.124.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3434618 (3.3M) [image/png]
+Saving to: `2b7e86ce9c407235bbabb0a9e6a816bd.png.1'
+
+     0K .......... .......... .......... .......... ..........  1% 2.30M 1s
+    50K .......... .......... .......... .......... ..........  2% 3.39M 1s
+   100K .......... .......... .......... .......... ..........  4% 2.94M 1s
+   150K .......... .......... .......... .......... ..........  5% 2.52M 1s
+   200K .......... .......... .......... .......... ..........  7% 3.28M 1s
+   250K .......... .......... .......... .......... ..........  8% 2.66M 1s
+   300K .......... .......... .......... .......... .......... 10% 2.90M 1s
+   350K .......... .......... .......... .......... .......... 11% 1.76M 1s
+   400K .......... .......... .......... .......... .......... 13% 9.57M 1s
+   450K .......... .......... .......... .......... .......... 14% 1.02M 1s
+   500K .......... .......... .......... .......... .......... 16% 1.32M 1s
+   550K .......... .......... .......... .......... .......... 17% 3.39M 1s
+   600K .......... .......... .......... .......... .......... 19% 3.02M 1s
+   650K .......... .......... .......... .......... .......... 20% 2.72M 1s
+   700K .......... .......... .......... .......... .......... 22% 3.82M 1s
+   750K .......... .......... .......... .......... .......... 23% 2.84M 1s
+   800K .......... .......... .......... .......... .......... 25% 2.26M 1s
+   850K .......... .......... .......... .......... .......... 26% 3.59M 1s
+   900K .......... .......... .......... .......... .......... 28% 2.86M 1s
+   950K .......... .......... .......... .......... .......... 29% 2.45M 1s
+  1000K .......... .......... .......... .......... .......... 31% 3.02M 1s
+  1050K .......... .......... .......... .......... .......... 32% 1.92M 1s
+  1100K .......... .......... .......... .......... .......... 34% 2.49M 1s
+  1150K .......... .......... .......... .......... .......... 35% 2.77M 1s
+  1200K .......... .......... .......... .......... .......... 37% 2.98M 1s
+  1250K .......... .......... .......... .......... .......... 38% 3.49M 1s
+  1300K .......... .......... .......... .......... .......... 40% 1.21M 1s
+  1350K .......... .......... .......... .......... .......... 41% 1.84M 1s
+  1400K .......... .......... .......... .......... .......... 43% 5.54M 1s
+  1450K .......... .......... .......... .......... .......... 44% 1.93M 1s
+  1500K .......... .......... .......... .......... .......... 46% 2.02M 1s
+  1550K .......... .......... .......... .......... .......... 47% 3.10M 1s
+  1600K .......... .......... .......... .......... .......... 49% 2.78M 1s
+  1650K .......... .......... .......... .......... .......... 50% 3.70M 1s
+  1700K .......... .......... .......... .......... .......... 52% 2.65M 1s
+  1750K .......... .......... .......... .......... .......... 53% 1.79M 1s
+  1800K .......... .......... .......... .......... .......... 55% 3.23M 1s
+  1850K .......... .......... .......... .......... .......... 56% 2.72M 1s
+  1900K .......... .......... .......... .......... .......... 58% 2.92M 1s
+  1950K .......... .......... .......... .......... .......... 59% 3.04M 1s
+  2000K .......... .......... .......... .......... .......... 61% 2.62M 1s
+  2050K .......... .......... .......... .......... .......... 62% 2.79M 0s
+  2100K .......... .......... .......... .......... .......... 64% 2.87M 0s
+  2150K .......... .......... .......... .......... .......... 65% 2.43M 0s
+  2200K .......... .......... .......... .......... .......... 67% 3.62M 0s
+  2250K .......... .......... .......... .......... .......... 68% 1.67M 0s
+  2300K .......... .......... .......... .......... .......... 70% 2.41M 0s
+  2350K .......... .......... .......... .......... .......... 71% 3.22M 0s
+  2400K .......... .......... .......... .......... .......... 73% 3.17M 0s
+  2450K .......... .......... .......... .......... .......... 74% 3.11M 0s
+  2500K .......... .......... .......... .......... .......... 76% 4.81M 0s
+  2550K .......... .......... .......... .......... .......... 77% 3.57M 0s
+  2600K .......... .......... .......... .......... .......... 79% 3.32M 0s
+  2650K .......... .......... .......... .......... .......... 80% 2.37M 0s
+  2700K .......... .......... .......... .......... .......... 81% 3.49M 0s
+  2750K .......... .......... .......... .......... .......... 83% 2.70M 0s
+  2800K .......... .......... .......... .......... .......... 84% 4.00M 0s
+  2850K .......... .......... .......... .......... .......... 86% 2.90M 0s
+  2900K .......... .......... .......... .......... .......... 87% 3.23M 0s
+  2950K .......... .......... .......... .......... .......... 89% 2.99M 0s
+  3000K .......... .......... .......... .......... .......... 90% 2.06M 0s
+  3050K .......... .......... .......... .......... .......... 92%  399K 0s
+  3100K .......... .......... .......... .......... .......... 93%  130M 0s
+  3150K .......... .......... .......... .......... .......... 95% 1.24M 0s
+  3200K .......... .......... .......... .......... .......... 96% 2.75M 0s
+  3250K .......... .......... .......... .......... .......... 98% 1.74M 0s
+  3300K .......... .......... .......... .......... .......... 99% 2.54M 0s
+  3350K ....                                                  100% 3.04M=1.4s
+
+2015-01-17 13:19:03 (2.39 MB/s) - `2b7e86ce9c407235bbabb0a9e6a816bd.png.1' saved [3434618/3434618]
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1423180127 source:c:\users\karth_000\skydrive\google drive\rr\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<string>
+

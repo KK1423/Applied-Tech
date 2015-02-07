@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1421705472 source:c:\users\karth_000\skydrive\google drive\randtest\main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
