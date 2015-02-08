@@ -738,6 +738,39 @@ void doholds(string* input,room inroom)
     }
     return;
 }
+void doattacks(string* input, room inroom)
+{
+    enemy* traverse = inroom.startenemy;
+    int i =0;
+    bool flag = false;
+    while(input[i]!="@")
+    {
+        if(contains(input[i],attackwords))
+            flag = true;
+        i++;
+    }
+    if(!flag)(return;)
+    item * lastone = 0;
+    while(traverse!=0)
+    {
+        string* parseditemname = parse(traverse->name);
+        if(contains(input,parseditemname))
+        {
+            if(lastone == 0)
+            {
+                currentroom->startroomitem = traverse->nextitem;
+            }else
+            {
+                lastone->nextitem = traverse->nextitem;
+            }
+            traverse->nextitem = 0;
+            return traverse;
+        }
+        lastone = traverse;
+        traverse = traverse->nextenemy;
+        delete[] parseditemname;
+    }
+}
 int checkformove(string* input,room inroom)
 {
     string* parsedoption;
