@@ -431,8 +431,9 @@ void dump(d3Vector **inImage,int width,int height)
     outputFile.open("cache");
     str = (char)((int)str+1);
     outputFile.write(&str,1);
-    str2 = "OpenSeeIt.exe "+str2;
+    str2 = "start \"\"\"%programfiles(x86)%\\GimpShop\\bin\\gimp-2.8.exe\" "+str2;
     system(str2.c_str());
+    cin>>str2;
 }
 void computeSection(int xstart,int xend, int ystart, int yend,d3Vector **opImage,Scene sce)
 {
